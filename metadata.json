@@ -1,0 +1,5 @@
+{
+  "name": "FixIt Pro - Premium Device Repair",
+  "description": "Professional repair services for phones, laptops, and electronics. Fast, reliable, and guaranteed.",
+  "requestFramePermissions": ["geolocation"]
+}
